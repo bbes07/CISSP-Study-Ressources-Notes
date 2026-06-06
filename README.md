@@ -2,6 +2,9 @@
 CISSP Study Ressources &amp; Notes
 
 
+
+
+
 # Books
 
 
@@ -10,6 +13,12 @@ CISSP Study Ressources &amp; Notes
 # Forums & Groups
 
 
+
+# Persons to follow (EN)
+
+
+
+# Persons to follow (FR)
 
 
 # Tests
