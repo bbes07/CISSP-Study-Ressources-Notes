@@ -7,18 +7,18 @@ CISSP Study Ressources &amp; Notes
 
 # Books
 
-
+- Peter Zeger - CISSP : The Last Mile (https://leanpub.com/cissplastmile)
 
 
 # Forums & Groups
 
 
 
-# Persons to follow (EN)
+# Persons to follow
 
 
-
-# Persons to follow (FR)
+- Luke Ahmed (EN) : https://www.linkedin.com/in/luke-ahmed-%F0%9F%9A%80-446601133/
+- Peter Zerger (EN) : https://www.linkedin.com/in/petezerger/
 
 
 # Tests
