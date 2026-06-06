@@ -15,6 +15,7 @@ CISSP Study Ressources &amp; Notes
 # Tests
 
 - LearnZapp : https://www.learnzapp.com/apps/isc2/
+- Thor Teacher Free daily QOTD : https://thorteaches.com/qotd/
 
 # GitHub Repository
 
